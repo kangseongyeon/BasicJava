@@ -121,7 +121,7 @@ public class HomeWork02 {
 //		obj.mehtod3();
 		obj.mehtod4();
 		obj.mehtod5();
-//	}/
+	}
 
 	public void method1() {
 		/*
